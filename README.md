@@ -1,2 +1,2 @@
 # phpPDOMedical
-exercice CRUD BDD php
+correction exercice CRUD BDD php
